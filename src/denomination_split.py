@@ -9,3 +9,6 @@ def get_optimal_denominations(amount):
       amount = amount % d
 
 return result 
+if __name__ == "__main__":
+    # quick check example
+    print(get_optimal_denominations(999))
