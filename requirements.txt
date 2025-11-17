@@ -2,3 +2,6 @@ pandas
 ipykernel
 matplotlib
 statsmodels
+numpy
+scikit-learn
+joblib
